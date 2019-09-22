@@ -9,7 +9,7 @@ Artistic
 * Blurpint 
 * Easy paint tool SAI
 ## Code examples
- <addr .grid {
+ < .grid {
   display: grid;
   border: 2px blue solid;
   height: 500px;
