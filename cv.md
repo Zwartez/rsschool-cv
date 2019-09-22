@@ -34,6 +34,8 @@ Artistic
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }>
+## Experience
+Nothing yet(
 ## English
 A2.Played online games for a long time.
 
@@ -41,6 +43,4 @@ A2.Played online games for a long time.
 
 
 
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
+
