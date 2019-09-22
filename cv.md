@@ -1,3 +1,0 @@
- # Strelkin Pavel
-## Contacts: 
-### tel: +375447658131 
