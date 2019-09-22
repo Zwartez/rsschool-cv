@@ -5,13 +5,42 @@ tel: +375447658131 mail: strelkinpavel@gmail.com
 Willingness to learn - the benefit of brain memory.
 ## Education
 Artistic
+## Skills
+*Blurpint 
+*Easy paint tool SAI
+## Code examples
+<addr> .grid {
+  display: grid;
+  border: 2px blue solid;
+  height: 500px;
+  width: 500px;
+  grid-template: repeat(4, 1fr 2fr) / repeat(4, 3fr 2fr);
+  grid-gap: 5px;
+}
+
+.a {
+  grid-area: 5 / 1 / span 2 / span 2;
+}
+
+.b {
+  grid-area: 2 / 2 / span 3 / span 6;
+}
+.c {
+  grid-area: 6 / 8 /span 3 / span 1;
+}
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
 ## English
 A2.Played online games for a long time.
 
 
 
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
+
+
 6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
 Also it would be awesome if you add links to source code)
