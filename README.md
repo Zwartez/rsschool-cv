@@ -1,1 +1,1 @@
-https://zwartez.github.io/rsschool-cv/cv
+https://zwartez.github.io/rsschool-cv/cv.md
