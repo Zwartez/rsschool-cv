@@ -1,7 +1,8 @@
 # Strelkin Pavel
 ## Contacts:
-tel: +375447658131 mail strelkinpavel@gmail.com
-
+tel: +375447658131 mail: strelkinpavel@gmail.com
+## English
+A2.Played online games for a long time.
 
 
 3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
