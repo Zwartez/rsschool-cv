@@ -9,7 +9,7 @@ Artistic
 * Blurpint 
 * Easy paint tool SAI
 ## Code examples
-<addr> .grid {
+ <addr .grid {
   display: grid;
   border: 2px blue solid;
   height: 500px;
@@ -33,7 +33,7 @@ Artistic
   color: black;
   border-radius: 5px;
   border: 2px dodgerblue solid;
-}
+}>
 ## English
 A2.Played online games for a long time.
 
