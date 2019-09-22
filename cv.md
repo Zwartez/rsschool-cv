@@ -6,8 +6,8 @@ Willingness to learn - the benefit of brain memory.
 ## Education
 Artistic
 ## Skills
-*Blurpint 
-*Easy paint tool SAI
+* Blurpint 
+* Easy paint tool SAI
 ## Code examples
 <addr> .grid {
   display: grid;
